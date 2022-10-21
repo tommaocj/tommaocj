@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom Mao
 - 👀 I’m interested in all the creative idea
-- 🌱 I’m currently doing the projects via ionic, django for many applications 
+- 🌱 I’m currently doing the projects via flutter, ionic, django for many applications 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, tom@tomcs.com
 
